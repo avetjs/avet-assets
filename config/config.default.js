@@ -6,7 +6,6 @@ exports.assets = {
 
 exports.build = {
   babel: (babelConfig, config) => {
-    console.log('=======', config.assets);
     babelConfig.plugins.push([
       require.resolve('babel-plugin-transform-assets'),
       {
