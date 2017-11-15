@@ -23,6 +23,9 @@
   "engines": {
     "node": ">= 8.0.0"
   },
+  "tnpm": {
+    "mode": "npm"
+  },
   "files": ["config", "app.js"],
   "license": "MIT"
 }
