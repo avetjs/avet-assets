@@ -1,16 +1,11 @@
 {
   "name": "avet-assets",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "avet assets",
   "avetPlugin": {
     "name": "assets"
   },
-  "keywords": [
-    "avet",
-    "avetPlugin",
-    "avet-plugin",
-    "assets"
-  ],
+  "keywords": ["avet", "avetPlugin", "avet-plugin", "assets"],
   "scripts": {
     "autod": "autod"
   },
@@ -28,9 +23,6 @@
   "engines": {
     "node": ">= 8.0.0"
   },
-  "files": [
-    "config",
-    "app.js"
-  ],
+  "files": ["config", "app.js"],
   "license": "MIT"
 }
