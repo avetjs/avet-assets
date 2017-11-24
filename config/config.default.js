@@ -1,5 +1,5 @@
 exports.assets = {
-  extensions: [ 'txt', 'svg', 'png' ],
+  extensions: [ 'txt', 'svg', 'png', 'jpg', 'jpeg', 'webp' ],
   regExp: '.*/static/(.+)',
   name: '/static/[1]?[sha512:hash:base64:7]',
 };
