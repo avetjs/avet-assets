@@ -1,6 +1,6 @@
 {
   "name": "avet-assets",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "description": "avet assets",
   "avetPlugin": {
     "name": "assets"
