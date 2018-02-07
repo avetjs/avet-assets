@@ -5,19 +5,19 @@
   "avetPlugin": {
     "name": "assets"
   },
-  "keywords": ["avet", "avetPlugin", "avet-plugin", "assets"],
-  "scripts": {
-    "autod": "autod"
-  },
+  "keywords": [
+    "avet",
+    "avetPlugin",
+    "avet-plugin",
+    "assets"
+  ],
   "dependencies": {
     "babel-plugin-transform-assets": "^0.2.0"
   },
   "devDependencies": {
-    "autod": "^2.10.1",
-    "avet-bin": "^1.0.0-1",
     "babel-eslint": "^8.0.2",
     "eslint": "^4.9.0",
-    "eslint-config-avet": "^0.3.9"
+    "eslint-config-avet": "^0.4.2"
   },
   "author": "okoala <dapixp@gmail.com>",
   "engines": {
@@ -26,6 +26,9 @@
   "tnpm": {
     "mode": "npm"
   },
-  "files": ["config", "app.js"],
+  "files": [
+    "config",
+    "app.js"
+  ],
   "license": "MIT"
 }
