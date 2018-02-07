@@ -12,7 +12,7 @@
     "assets"
   ],
   "dependencies": {
-    "babel-plugin-transform-assets": "^0.2.0"
+    "babel-plugin-transform-assets": "0.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.2",
